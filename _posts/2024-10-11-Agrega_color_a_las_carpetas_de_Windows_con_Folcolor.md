@@ -9,7 +9,7 @@ tags: [aplicaciones, opensource]
 image:
   path: /assets/img/post_20241011/cover.jpg
 ---
-[Folcolor](http://www.folcolor.com/) es una herramienta gratuita y *open source* creada por **Kevin Weatherman** que añade una funcionalidadpara añadir color a los iconos de las carpetas de Windows (funcionalidad presente, por ejemplo, en SharePoint o la mayoría de entornos de escritorio de Linux).
+[Folcolor](https://www.folcolor.com/) es una herramienta gratuita y *open source* creada por **Kevin Weatherman** que añade una funcionalidadpara añadir color a los iconos de las carpetas de Windows (funcionalidad presente, por ejemplo, en SharePoint o la mayoría de entornos de escritorio de Linux).
 
 Según su propio creador, se trata de una herramienta minimalista, sin *adware*, sin conexiones a internet ni recolección de datos.
 
