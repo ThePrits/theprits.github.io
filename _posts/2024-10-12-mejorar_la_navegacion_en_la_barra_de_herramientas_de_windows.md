@@ -19,7 +19,7 @@ Fuente: Boy Avianto (2007)
 
 Al momento de tener varias aplicaciones abiertas o, peor aun, varias instancias de una misma aplicación, se vuelve bastante complicado localizar la ventana que necesitamos (especialmente si tenemos prisa).
 
-![Escritorio](/assets/img/post_20241012/taskbar_7.png)
+![Escritorio](/assets/img/post_20241012/taskbar_0.png)
 
 En esta captura, vemos como tenemos varias aplicaciones ancladas en la barra de tareas de Windows 11. En este ejemplo, saltar desde una instancia de Excel a otra toma una cantidad de tiempo ridícula en comparación con tener un botón para cada instancia por separado, lo que agilizaría cambiar entre los libros abiertos.
 
