@@ -118,7 +118,7 @@ Los vídeos y los GIFs se guardarán en la misma carpeta en la que se guardan la
 
 # Otras funcionalidades y más información...
 
-Si quieres conocer más sobre la funcionalidades de ShareX, puedes consultar su [documentación]().
+Si quieres conocer más sobre la funcionalidades de ShareX, puedes consultar su [documentación](https://getsharex.com/).
 
 Asimismo, recomiendo echar un vistazo al curso creado por Camilo Cruz en su [canal de YouTube](https://www.youtube.com/@reperio624/videos):
 
